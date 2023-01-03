@@ -11,8 +11,8 @@
     </a>
 </div><br/>
 
-- 🔭 Undergraduate student in Systems and Digital Media at Federal University of Ceara
-- 🌱 Front End developer at [MOVE Tech - LEPES/USP](https://github.com/moveusp)
+- 🎓 Undergraduate student in Systems and Digital Media at Federal University of Ceara
+- ‍💻 Front End developer at [MOVE Tech - LEPES/USP](https://github.com/moveusp)
 
 ### Technologies and git stats:
 <div>
